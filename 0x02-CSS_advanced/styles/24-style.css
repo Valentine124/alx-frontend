@@ -493,8 +493,9 @@ ul.row {
 }
 
 .card-services a:hover {
-   background-color: var(--color-white);
-   
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  text-decoration: none;
 }
 
 .section-title {
